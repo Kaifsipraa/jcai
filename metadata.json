@@ -1,0 +1,8 @@
+{
+  "name": "kaif ai",
+  "description": "A comprehensive AI creative suite featuring high-fidelity image and video generation, real-time voice conversation, advanced reasoning with thinking mode, and multimodal analysis powered by the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
